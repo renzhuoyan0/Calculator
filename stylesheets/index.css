@@ -1,0 +1,124 @@
+body{
+	margin: 0;
+	font-family: '微软雅黑';
+	min-width: 800px;
+	background-size: cover;
+	background-image: url(../27C58PIC5Ss.jpg);
+	/*background: red;*/
+}
+#jisuanqi{
+	border-radius: 15px;
+	width: 100%; 
+	height: 800px;
+	
+	position: relative;
+	margin-top: 90px;
+}
+
+.pingmu{
+	width: 800px;
+	height: 610px;
+	background: #697754;
+	margin: 60px auto;
+	border-radius: 10px;
+}
+.jiemian{
+	width: 764px;
+	height: 450px;
+	
+	margin: 0  auto;
+}
+.header{
+	height: 15px
+
+}
+.jieguo{
+	height: 60px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	font-size: 50px;
+	line-height: 60px;
+	text-align: center;
+}
+.xianshiqi{
+	margin-top: 10px;
+	width: 754px;
+	height: 120px;
+	border: 5px solid #222;
+	background:#999;
+	border-radius: 6px;
+	position: relative;
+}
+.yunsuan{
+	height: 60px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 50px;
+	line-height: 60px;
+	text-align: center;
+
+}
+
+.anjian{
+	background: #697754;
+	padding-top: 12px;
+	position: relative;
+
+}
+.btn{
+	float: left;
+	width: 83px;
+	height: 60px;
+	border: 1px solid #aaa;
+	border-radius: 6px;
+	background: #fff;
+	color: #000;
+	text-align: center;
+	line-height: 60px;
+	margin: 0 11px 10px 0;
+	font-size: 1.5em;
+	font-weight: bold;
+	box-shadow:  0 0 7px #333 inset;
+	cursor: pointer;
+}
+.right{
+	margin:0 0 10px 0 ;
+}
+.kuan{
+	width: 180px;
+}
+.chang{
+	height: 133px;
+	position: absolute;
+	top: 300px;
+	right: 0px;
+	margin: 0;
+	line-height: 138px;
+	background: #F2F2F2;
+}
+.hui{
+	background: #555;
+	color: #fff;
+}
+.hei{
+	background: #000;
+	color: #fff;
+}
+.shuru{
+	font-size: 70px;
+	
+	
+}
+#rember{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	bottom: -10px;
+	left:0px;
+	font-size: 30px;
+	display: none;
+	z-index: 1000;
+
+}
